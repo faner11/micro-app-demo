@@ -1,6 +1,6 @@
 # 错误表现
 
-在Firefox浏览器,iframe模式加载子应用 Tooltip组件 的位置也有问题，在chrome一切又都是正常的
+子应用使用 tailwindcss V4 时，会导致样式失效
 
 
 
